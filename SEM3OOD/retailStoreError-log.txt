@@ -1,0 +1,80 @@
+22 May 2023, 13:22:30, Exception was thrown: Item ID: 5 can not be found in the inventory system.
+se.kth.iv1350.retailStore.model.ItemNotFoundException: Item ID: 5 can not be found in the inventory system.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:42)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:62)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:41)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+22 May 2023, 13:22:30, Exception was thrown: Failed to connect to Database.
+se.kth.iv1350.retailStore.model.DataBaseFailureException: Failed to connect to Database.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:34)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:62)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:43)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+22 May 2023, 13:36:59, Exception was thrown: Item ID: 5 can not be found in the inventory system.
+se.kth.iv1350.retailStore.model.ItemNotFoundException: Item ID: 5 can not be found in the inventory system.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:42)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:62)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:41)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+22 May 2023, 13:36:59, Exception was thrown: Failed to connect to Database.
+se.kth.iv1350.retailStore.model.DataBaseFailureException: Failed to connect to Database.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:34)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:62)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:43)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+22 May 2023, 13:39:07, Exception was thrown: Item ID: 5 can not be found in the inventory system.
+se.kth.iv1350.retailStore.model.ItemNotFoundException: Item ID: 5 can not be found in the inventory system.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:42)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:62)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:41)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+22 May 2023, 13:39:07, Exception was thrown: Failed to connect to Database.
+se.kth.iv1350.retailStore.model.DataBaseFailureException: Failed to connect to Database.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:34)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:62)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:43)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+22 May 2023, 13:50:27, Exception was thrown: Item ID: 5 can not be found in the inventory system.
+se.kth.iv1350.retailStore.model.ItemNotFoundException: Item ID: 5 can not be found in the inventory system.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:42)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:67)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:46)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+22 May 2023, 13:50:27, Exception was thrown: Failed to connect to Database.
+se.kth.iv1350.retailStore.model.DataBaseFailureException: Failed to connect to Database.
+	at se.kth.iv1350.reatailStore.integration.InventorySystem.fetchItemInfo(InventorySystem.java:34)
+	at se.kth.iv1350.retailStore.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:29)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:67)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:48)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
